@@ -20,10 +20,11 @@ from Home.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("",home1),
-    path("signup/",signup),
-    path("login/",login_view),
-    path('aboutus/',aboutus),
-    path('chatbot/',chatbot),
-    path('logout/', logout_view),
+    path("", home1),
+    path("signup/", signup, name="signup"),
+    path("login/", login_view, name="login_view"),  
+    path('aboutus/', aboutus, name="aboutus"),
+    path('chatbot/', chatbot, name="chatbot"),
+    path('logout/', logout_view, name="logout"),
 ]
+

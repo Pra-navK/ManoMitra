@@ -117,7 +117,7 @@ def signup(request):
             user = User.objects.create_user(username=username, password=password, email=email, first_name=name)
             user.save()
             messages.success(request, "Sign-Up successful! You can now log in.")
-            return redirect('login_view')  # Redirect to login page using the name of the view
+            return redirect('login_view')  
         
     return render(request, 'signup.html')  # Corrected path to 'signup.html'
 
