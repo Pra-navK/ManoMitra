@@ -96,9 +96,6 @@ This is a project driven by a passion for mental wellness and technology. If thi
 
 Please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is shared under the MIT License. See the `LICENSE.txt` file for more details.
 
 ## Contact
 
