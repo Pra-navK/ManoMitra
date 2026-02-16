@@ -99,6 +99,6 @@ Please feel free to open an issue or submit a pull request.
 
 ## Contact
 
-Pra-navK - [GitHub Profile](https://github.com/Pra-navK)
+Cyberknp [K Nagendra Pai ] - [GitHub Profile](https://github.com/cyberknp)
 
-Project Link: [https://github.com/Pra-navK/ManoMitra](https://github.com/Pra-navK/ManoMitra)
+Project Link: [https://github.com/Cyberknp/Manomithra.git]
